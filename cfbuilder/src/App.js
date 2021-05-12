@@ -172,8 +172,8 @@ function App() {
         <Navbar bg="light" variant="light">
           <Navbar.Brand href="#home"><h2>Construction File Builder</h2></Navbar.Brand>
           <Nav className="mr-auto">
-            <Nav.Link href="#home">Experiment1</Nav.Link>
-            <Nav.Link href="#features">Experiment2</Nav.Link>
+            <Nav.Link href="#home">Golden Gate</Nav.Link>
+            <Nav.Link href="#features">Ortholog Scan</Nav.Link>
           </Nav>
         </Navbar>
       </header>
