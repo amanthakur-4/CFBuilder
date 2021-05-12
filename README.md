@@ -2,8 +2,8 @@
 
 The Construction File Builder is designed to help people format their construction files properly. In the current version, CFBuilder supports basic construction file formatting but will soon expand to provide functionality for things like Golden Gate reactions and Ortholog Scan experiments. 
 
-#Tutorial
-The first input field allows the user to name the text file which will be downloaded. Enter the name you would like for your construction file here.\
+## Tutorial
+The first input field allows the user to name the text file which will be downloaded. Enter the name you would like for your construction file here.
 
 ![alt text](https://i.ibb.co/k3tvCXJ/file-Name-Input.png)
 
@@ -32,6 +32,6 @@ Finally, add the names and sequences of any plasmids that you would like to add 
 Once you are done, press the green "Create Construction File" button. A .txt file should begin downloading.
 
 
-#Enjoy your construction file!
+## Enjoy your construction file!
 
 *Developer notes: This is an ongoing project. There will be updates to address any issues that may come up such as nomenclature inaccuracies, bugs, and user interface improvement. I am also planning on updating the site with more features in the near future. Thanks! -- Aman*
