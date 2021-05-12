@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CFBuilder/static/css/main.48f00055.chunk.css",
+    "main.js": "/CFBuilder/static/js/main.722c58b1.chunk.js",
+    "main.js.map": "/CFBuilder/static/js/main.722c58b1.chunk.js.map",
+    "runtime-main.js": "/CFBuilder/static/js/runtime-main.12e185c2.js",
+    "runtime-main.js.map": "/CFBuilder/static/js/runtime-main.12e185c2.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/CFBuilder/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4ecea689.chunk.js": "/CFBuilder/static/js/2.4ecea689.chunk.js",
+    "static/js/2.4ecea689.chunk.js.map": "/CFBuilder/static/js/2.4ecea689.chunk.js.map",
+    "static/js/3.1b55a81c.chunk.js": "/CFBuilder/static/js/3.1b55a81c.chunk.js",
+    "static/js/3.1b55a81c.chunk.js.map": "/CFBuilder/static/js/3.1b55a81c.chunk.js.map",
+    "index.html": "/CFBuilder/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/CFBuilder/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.48f00055.chunk.css.map": "/CFBuilder/static/css/main.48f00055.chunk.css.map",
+    "static/js/2.4ecea689.chunk.js.LICENSE.txt": "/CFBuilder/static/js/2.4ecea689.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12e185c2.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4ecea689.chunk.js",
+    "static/css/main.48f00055.chunk.css",
+    "static/js/main.722c58b1.chunk.js"
+  ]
+}
